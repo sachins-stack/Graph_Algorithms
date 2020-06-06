@@ -1,7 +1,7 @@
 //for finding the no. of paths of fixed k length going from u to v vertices 
 //you have to multiply the adjacent matrix 
 // by k times. it will take O(pow(G,k)) time complexity but
-//by using binary exponentiation it will take O(pow(n,3)*log K);  
+//by using binary exponentiation it will take O(pow(n,3)*log K).  
 
 
 #include<iostream>
